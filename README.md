@@ -1,9 +1,5 @@
 # BigramNames
 uses simple bigram model to make the matrix
-Here is a **guided README.md** tailored for learners, explaining both the **core bigram concept** and the **structure of your Python file** step-by-step with educational comments.
-
----
-
 # 📘 Bigram Name Model – Guided Learning Project
 
 This is a beginner-friendly project that teaches you how to build and visualize a **bigram frequency model** from a list of names using **Python** and **PyTorch**.
